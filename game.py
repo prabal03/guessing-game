@@ -25,4 +25,5 @@ if s == 'y':
     main()
 else:
     print("thanks for giving u r tym!!!")
+    print("Bye")
     exit()
